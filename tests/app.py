@@ -1,0 +1,1 @@
+<code object <module> at 0x00000212BC06C660, file "<EzzKun>", line 4>
